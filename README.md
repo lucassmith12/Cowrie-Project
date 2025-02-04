@@ -1,5 +1,5 @@
 # New Year, New Ways to Brick your Machine
-Good Morning! Bonjour! Guten Tag! It is the first day of 2025 at 1:32 AM EST (GMT-5) and I am having the time of my life finding new trojans on the internet. What two weeks of missing their girlfriend does to a man should be studied.
+Good Morning! Bonjour! Guten Tag! It is the first day of 2025 at 1:32 AM EST (GMT-5) and I am having the time of my life finding new trojans on the internet.
 
 ## Background
 So I found a great [video](https://www.youtube.com/watch?v=ASIEN3qmaNg) by [GnarCoding](https://www.youtube.com/@GnarCoding) one day where he went over the basics of creating a honey pot with Cowrie, and I was like, *hey, I could totally do that!* So here I am. 
